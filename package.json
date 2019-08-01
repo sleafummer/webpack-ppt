@@ -1,0 +1,18 @@
+{
+  "name": "webpack-ppt",
+  "version": "1.0.0",
+  "description": "webpack ppt",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sleafummer/webpack-ppt.git"
+  },
+  "author": "lixia@27ng.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sleafummer/webpack-ppt/issues"
+  },
+  "homepage": "https://github.com/sleafummer/webpack-ppt#readme"
+}
