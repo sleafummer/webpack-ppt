@@ -1,1 +1,3 @@
-document.write('hello webpack ~');
+import hello from './hello';
+
+document.write(hello);
